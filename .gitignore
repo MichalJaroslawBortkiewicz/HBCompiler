@@ -1,0 +1,7 @@
+.venv
+
+
+docs
+out
+test
+*__pycache__
